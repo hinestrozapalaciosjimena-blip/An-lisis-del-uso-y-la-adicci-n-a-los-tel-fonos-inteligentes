@@ -1,2 +1,2 @@
-# An-lisis-del-uso-y-la-adicci-n-a-los-tel-fonos-inteligentes
+# Analisis-del-uso-y-la-adiccion-a-los-telefonos-inteligentes
 PROBLEMA DE CLASIFICACIÓN (BINARIA Y MULTICLASE)
